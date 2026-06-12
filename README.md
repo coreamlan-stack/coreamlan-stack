@@ -36,10 +36,7 @@ current_focus:
   - "💡 Exploring Full-Stack Architecture"
   - "🎯 Crafting Production-Ready Apps"
 
-fun_facts:
-  - "⚡ I turn coffee into code"
-  - "🎨 Pixel-perfect is my mantra"
-  - "🚀 Always shipping, always learning"
+
 ```
 
 <br clear="both">
@@ -53,37 +50,7 @@ fun_facts:
   &nbsp;Featured Project
 </h2>
 
-<div align="center">
 
-<table>
-<tr>
-<td width="50%">
-
-### 🏗️ AMC e-Billing Workflow Management
-
-<p>
-  <img src="https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge&logo=statuspage&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-</p>
-
-A comprehensive **React-based workflow management** application for streamlined business operations.
-
-**Key Modules:**
-
-| Module | Description |
-|--------|------------|
-| 📋 Work Orders | Create & manage work assignments |
-| 📄 Challans | Track delivery documents |
-| 💰 Bills | Automated billing workflows |
-| ✅ Sanction Memos | Approval management system |
-| 💳 Payments | End-to-end payment processing |
-
-</td>
-</tr>
-</table>
-
-</div>
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">

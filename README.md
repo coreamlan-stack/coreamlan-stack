@@ -1,16 +1,10 @@
 <!-- Header Banner with Wave Animation -->
 <div align="center">
   
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Amlan%20Bhowmik&fontSize=70&fontAlignY=35&desc=Frontend%20Developer%20%7C%20React.js%20Enthusiast&descSize=20&descAlignY=55&animation=fadeIn&fontColor=ffffff)
+ ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Amlan%20Bhowmik&fontSize=70&fontAlignY=35&desc=Frontend%20Developer%20%7C%20React.js%20Enthusiast&descSize=20&descAlignY=55&animation=fadeIn&fontColor=ffffff)
 
 </div>
 
-<!-- Typing Animation -->
-<div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Crafting+Seamless+User+Experiences+%F0%9F%8E%A8;Building+Scalable+Business+Applications+%F0%9F%9A%80;Turning+Ideas+Into+Pixel-Perfect+Reality+%E2%9C%A8)
-
-</div>
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">

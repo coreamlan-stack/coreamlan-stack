@@ -31,10 +31,10 @@ Role: Frontend Developer
 Location: Agartala, Tripura, India
 
 current_focus:
-  - "🔭 Building AMC e-Billing Workflow System"
-  - "🌱 Learning Spring Boot & System Design"
-  - "💡 Exploring Full-Stack Architecture"
-  - "🎯 Crafting Production-Ready Apps"
+  -  Building AMC e-Billing Workflow System
+  -  Learning Spring Boot & System Design
+  -  Exploring Full-Stack Architecture
+  -  Crafting Production-Ready Apps
 ```
 
 <br clear="both">
@@ -56,7 +56,7 @@ current_focus:
 
 <div align="center">
 
-### 🎨 Frontend
+###  Frontend
 <p>
   <a href="https://react.dev/">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -75,7 +75,7 @@ current_focus:
   </a>
 </p>
 
-### ⚙️ Backend
+###  Backend
 <p>
   <a href="https://spring.io/projects/spring-boot">
     <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
@@ -85,7 +85,7 @@ current_focus:
   </a>
 </p>
 
-### 🗄️ Database
+###  Database
 <p>
   <a href="https://www.mysql.com/">
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
@@ -131,7 +131,7 @@ current_focus:
 
 <div align="center">
 
-### 🧰 Languages & Tools I Use
+###  Languages & Tools I Use
 
 <p>
   <a href="https://skillicons.dev">
@@ -164,7 +164,7 @@ current_focus:
 <tr>
 <td align="center" width="50%">
 
-### 🌿 Spring Boot
+###  Spring Boot
 <p>
   <img src="https://img.shields.io/badge/REST_APIs-6DB33F?style=flat-square&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Microservices-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
@@ -176,7 +176,7 @@ current_focus:
 </td>
 <td align="center" width="50%">
 
-### 🏗️ Full-Stack Development
+###  Full-Stack Development
 <p>
   <img src="https://img.shields.io/badge/React_+_Spring_Boot-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Authentication-FF6F00?style=flat-square&logo=json-web-tokens&logoColor=white" />
@@ -226,7 +226,7 @@ current_focus:
 
 <div align="center">
 
-| 🎯 Goal | 📊 Progress |
+|  Goal   |  Progress  |
 |---------|------------|
 | Build Production-Ready Apps | ![](https://geps.dev/progress/60) |
 | Master Frontend Architecture | ![](https://geps.dev/progress/50) |
@@ -271,7 +271,7 @@ current_focus:
 
 <div align="center">
   
-  ### ⭐ From [Amlan Bhowmik](https://github.com/coreamlan-stack) — Thanks for visiting! 🚀
+  ###  From [Amlan Bhowmik](https://github.com/coreamlan-stack) — Thanks for visiting! 
   
   <i>"Code is like humor. When you have to explain it, it's bad."</i>
   

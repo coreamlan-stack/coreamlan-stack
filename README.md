@@ -170,7 +170,15 @@ A comprehensive **React-based workflow management** application for streamlined 
 <br>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coreamlan-stack&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" alt="Top Languages" />
+
+### 🧰 Languages & Tools I Use
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,js,html,css,java,spring,mysql,git,github,gitlab,vscode,postman&perline=6&theme=dark" alt="My Skills" />
+  </a>
+</p>
+
 </div>
 
 <br>
@@ -192,28 +200,59 @@ A comprehensive **React-based workflow management** application for streamlined 
 </h2>
 
 <div align="center">
+<table>
+<tr>
+<td align="center" width="50%">
 
-```mermaid
-mindmap
-  root((🧠 Learning Path))
-    🌿 Spring Boot
-      REST APIs
-      Microservices
-      Security
-    🏗️ Full-Stack Dev
-      React + Spring Boot
-      API Integration
-      Authentication
-    📐 System Design
-      Scalability
-      Design Patterns
-      Architecture
-    🔗 API Integration
-      RESTful Services
-      Error Handling
-      Optimization
-```
+### 🌿 Spring Boot
+<p>
+  <img src="https://img.shields.io/badge/REST_APIs-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microservices-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=spring-security&logoColor=white" />
+</p>
 
+![](https://geps.dev/progress/35)
+
+</td>
+<td align="center" width="50%">
+
+### 🏗️ Full-Stack Development
+<p>
+  <img src="https://img.shields.io/badge/React_+_Spring_Boot-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Authentication-FF6F00?style=flat-square&logo=json-web-tokens&logoColor=white" />
+</p>
+
+![](https://geps.dev/progress/40)
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### 📐 System Design
+<p>
+  <img src="https://img.shields.io/badge/Scalability-0D1117?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Design_Patterns-0D1117?style=flat-square&logo=blueprint&logoColor=white" />
+  <img src="https://img.shields.io/badge/Architecture-0D1117?style=flat-square&logo=diagrams.net&logoColor=white" />
+</p>
+
+![](https://geps.dev/progress/25)
+
+</td>
+<td align="center" width="50%">
+
+### 🔗 API Integration
+<p>
+  <img src="https://img.shields.io/badge/RESTful_Services-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Error_Handling-E34F26?style=flat-square&logo=bugsnag&logoColor=white" />
+  <img src="https://img.shields.io/badge/Optimization-4285F4?style=flat-square&logo=lighthouse&logoColor=white" />
+</p>
+
+![](https://geps.dev/progress/45)
+
+</td>
+</tr>
+</table>
 </div>
 
 <!-- Animated Divider -->
@@ -257,12 +296,8 @@ mindmap
 
 <br>
 
-<!-- Snake Animation -->
-<div align="center">
-  
-  ![Snake animation](https://raw.githubusercontent.com/coreamlan-stack/coreamlan-stack/output/github-snake-dark.svg)
+<!-- Snake Contribution Animation -->
 
-</div>
 
 <!-- Profile Views Counter -->
 <div align="center">

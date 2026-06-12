@@ -24,11 +24,11 @@
 <img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```yaml
-name: Amlan Bhowmik
-handle: "@coreamlan-stack"
-pronouns: he/him
-role: Frontend Developer
-location: Agartala, Tripura, India\
+Name: Amlan Bhowmik
+Handle: "@coreamlan-stack"
+Pronouns: He/him
+Role: Frontend Developer
+Location: Agartala, Tripura, India
 
 current_focus:
   - "🔭 Building AMC e-Billing Workflow System"

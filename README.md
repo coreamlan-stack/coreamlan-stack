@@ -1,16 +1,79 @@
-## Hi there 👋
+# Hi, I'm Amlan Bhowmik 👋
 
-<!--
-**coreamlan-stack/coreamlan-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend Developer | React.js
 
-Here are some ideas to get you started:
+Developing Workflow Management & Business Applications
+Currently Learning Spring Boot and System Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Current Project
+
+### AMC e-Billing Workflow Management System
+
+A React-based workflow management application for handling:
+
+* Work Orders
+* Challans
+* Bills
+* Sanction Memos
+* Payment Processing
+
+---
+
+## 💻 Tech Stack
+
+### Frontend
+
+* React.js
+* JavaScript (ES6+)
+* HTML5
+* CSS3
+* Axios
+
+### Backend
+
+* Spring Boot
+* Java
+
+### Database
+
+* MySQL
+
+### Tools
+
+* Git
+* GitHub
+* GitLab
+* VS Code
+* Postman
+
+---
+
+## 📚 Currently Learning
+
+* Spring Boot
+* Full-Stack Development
+* System Design
+* API Integration
+
+---
+
+## 📈 GitHub Goals
+
+* Build production-ready applications
+* Improve frontend architecture skills
+* Create scalable business applications
+* Contribute consistently
+
+---
+
+## 🔗 Featured Project
+
+* AMC e-Billing Frontend
+
+---
+
+### Thanks for visiting my profile! 🚀
+
+

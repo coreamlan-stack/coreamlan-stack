@@ -29,7 +29,6 @@ handle: "@coreamlan-stack"
 pronouns: he/him
 role: Frontend Developer
 location: Agartala, Tripura, India
-
 current_focus:
   - "🔭 Building AMC e-Billing Workflow System"
   - "🌱 Learning Spring Boot & System Design"

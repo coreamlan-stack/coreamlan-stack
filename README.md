@@ -8,7 +8,7 @@
 <!-- Typing Animation -->
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Crafting+Seamless+User+Experiences+%F0%9F%8E%A8;Building+Scalable+Business+Applications+%F0%9F%9A%80;Turning+Ideas+Into+Pixel-Perfect+Reality+%E2%9C%A8)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Crafting+Seamless+User+Experiences+%F0%9F%8E%A8;Building+Scalable+Business+Applications+%F0%9F%9A%80;Turning+Ideas+Into+Pixel-Perfect+Reality+%E2%9C%A8)
 
 </div>
 
@@ -92,7 +92,7 @@ current_focus:
   </a>
 </p>
 
-### 🛠️ Tools & Platforms
+###  Tools & Platforms
 <p>
   <a href="https://git-scm.com/">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -189,7 +189,7 @@ current_focus:
 <tr>
 <td align="center" width="50%">
 
-### 📐 System Design
+###  System Design
 <p>
   <img src="https://img.shields.io/badge/Scalability-0D1117?style=flat-square&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Design_Patterns-0D1117?style=flat-square&logo=blueprint&logoColor=white" />
@@ -201,7 +201,7 @@ current_focus:
 </td>
 <td align="center" width="50%">
 
-### 🔗 API Integration
+###  API Integration
 <p>
   <img src="https://img.shields.io/badge/RESTful_Services-FF6C37?style=flat-square&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Error_Handling-E34F26?style=flat-square&logo=bugsnag&logoColor=white" />

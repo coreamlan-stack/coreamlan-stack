@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="305" viewBox="0 0 1200 305" role="img" aria-label="Amlan Bhowmik — Frontend Developer and UI/UX Designer">
+<defs>
+ <linearGradient id="name" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#fb923c"/><stop offset="1" stop-color="#f97316"/></linearGradient>
+ <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#f97316" stop-opacity="0"/><stop offset=".5" stop-color="#fdba74" stop-opacity="1"/><stop offset="1" stop-color="#f97316" stop-opacity="0"/></linearGradient>
+ <radialGradient id="ambient"><stop stop-color="#4a2c22" stop-opacity=".37"/><stop offset=".72" stop-color="#1f1a1a" stop-opacity=".1"/><stop offset="1" stop-color="#0d1117" stop-opacity="0"/></radialGradient>
+ <clipPath id="underline"><rect x="507" y="247" width="186" height="3" rx="1.5"/></clipPath>
+</defs>
+<style>
+ text{font-family:Inter,Geist,"Segoe UI",Arial,sans-serif}
+ @keyframes flow{to{stroke-dashoffset:-360}}
+ @keyframes float{0%,100%{transform:translateY(0);opacity:.62}50%{transform:translateY(-6px);opacity:1}}
+ @keyframes glow{0%,100%{opacity:.4}50%{opacity:.85}}
+ @keyframes underline{0%{transform:translateX(-70px)}100%{transform:translateX(186px)}}
+ @keyframes cursor{0%,48%{opacity:1}50%,100%{opacity:0}}
+ .trace{stroke-dasharray:55 305;animation:flow 7s linear infinite}
+ .curve{animation:float 8s ease-in-out infinite}
+ .ambient{animation:glow 8s ease-in-out infinite}
+ .run{animation:underline 3.2s ease-in-out infinite}
+ .caret{animation:cursor 1.1s steps(1,end) infinite}
+ @media(prefers-reduced-motion:reduce){.trace,.curve,.ambient,.run,.caret{animation:none}}
+</style>
+<rect width="1200" height="305" fill="#0d1117"/>
+<ellipse class="ambient" cx="600" cy="145" rx="520" ry="250" fill="url(#ambient)"/>
+<!-- Restored side curves, visible even when animation is disabled -->
+<g class="curve" fill="none" stroke-linecap="round">
+ <path d="M26 198 C136 163 191 70 365 116" stroke="#9c4c28" stroke-opacity=".68" stroke-width="2"/>
+ <path d="M32 229 C136 199 210 159 353 162" stroke="#613a2c" stroke-opacity=".65" stroke-width="1.4"/>
+ <path d="M1174 198 C1064 163 1009 70 835 116" stroke="#9c4c28" stroke-opacity=".68" stroke-width="2"/>
+ <path d="M1168 229 C1064 199 990 159 847 162" stroke="#613a2c" stroke-opacity=".65" stroke-width="1.4"/>
+</g>
+<g class="trace" fill="none" stroke="#fb923c" stroke-width="2.8" stroke-linecap="round">
+ <path d="M26 198 C136 163 191 70 365 116"/>
+ <path d="M1174 198 C1064 163 1009 70 835 116"/>
+</g>
+<text x="600" y="55" text-anchor="middle" fill="#a7a3ab" font-size="15" font-weight="600" letter-spacing="2">FRONTEND / DESIGN / SYSTEMS</text>
+<text x="600" y="138" text-anchor="middle" font-size="84" font-weight="770" letter-spacing="-4"><tspan fill="#f7f7f8">Amlan </tspan><tspan fill="url(#name)">Bhowmik</tspan></text>
+<text x="600" y="182" text-anchor="middle" fill="#c8c9d0" font-size="25" font-weight="500">Frontend Developer · UI/UX Designer</text>
+<text x="600" y="231" text-anchor="middle" fill="#f5f5f5" font-size="23" font-weight="570">Design with purpose. <tspan fill="#fb923c" font-weight="730">Build with care.</tspan><tspan class="caret" fill="#fb923c"> |</tspan></text>
+<rect x="507" y="247" width="186" height="3" rx="1.5" fill="#513124"/>
+<g clip-path="url(#underline)"><rect class="run" x="507" y="247" width="70" height="3" rx="1.5" fill="url(#sweep)"/></g>
+<text x="600" y="281" text-anchor="middle" fill="#a3a3af" font-size="14" letter-spacing="1.65">THOUGHTFUL INTERFACES. PRACTICAL ENGINEERING.</text>
+</svg>

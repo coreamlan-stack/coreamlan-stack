@@ -1,22 +1,58 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="270" viewBox="0 0 1200 270" role="img" aria-label="Amlan Bhowmik — Frontend Developer and UI/UX Designer">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Amlan Bhowmik, frontend developer and UI UX designer.">
 <defs>
-<radialGradient id="ambient"><stop stop-color="#57301e" stop-opacity=".33"/><stop offset=".56" stop-color="#2b1d18" stop-opacity=".12"/><stop offset="1" stop-color="#0d1117" stop-opacity="0"/></radialGradient>
-<linearGradient id="line" x1="0" x2="1"><stop stop-color="#fb923c" stop-opacity="0"/><stop offset=".5" stop-color="#fb923c"/><stop offset="1" stop-color="#fb923c" stop-opacity="0"/></linearGradient>
+  <radialGradient id="warm"><stop stop-color="#703719" stop-opacity=".34"/><stop offset=".65" stop-color="#201a19" stop-opacity=".13"/><stop offset="1" stop-color="#0d1117" stop-opacity="0"/></radialGradient>
+  <linearGradient id="hot" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#f97316" stop-opacity=".15"/><stop offset=".5" stop-color="#fb923c"/><stop offset="1" stop-color="#f97316" stop-opacity=".15"/></linearGradient>
+  <linearGradient id="trace" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#fb923c" stop-opacity="0"/><stop offset=".5" stop-color="#fdba74" stop-opacity=".95"/><stop offset="1" stop-color="#fb923c" stop-opacity="0"/></linearGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#475569" stroke-width=".5" stroke-opacity=".10"/></pattern>
+  <clipPath id="track"><rect x="518" y="256" width="164" height="3" rx="1.5"/></clipPath>
 </defs>
 <style>
-text{font-family:Inter,Geist,"Segoe UI",Arial,sans-serif}
-@keyframes breathe{0%,100%{opacity:.48}50%{opacity:.86}}
-@keyframes shimmer{0%,100%{opacity:.3}50%{opacity:1}}
-@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
-.ambient{animation:breathe 7s ease-in-out infinite}.line{animation:shimmer 3.2s ease-in-out infinite}.cursor{animation:blink 1.2s steps(1,end) infinite}
-@media(prefers-reduced-motion:reduce){.ambient,.line,.cursor{animation:none}}
+  text{font-family:Inter,Geist,"Segoe UI",Arial,sans-serif}
+  @keyframes breathe{0%,100%{opacity:.42}50%{opacity:1}}
+  @keyframes driftL{0%,100%{transform:translate(-6px,1px)}50%{transform:translate(6px,-5px)}}
+  @keyframes driftR{0%,100%{transform:translate(5px,-2px)}50%{transform:translate(-5px,4px)}}
+  @keyframes run{0%{transform:translateX(-45px)}100%{transform:translateX(164px)}}
+  @keyframes cursor{0%,49%{opacity:1}50%,100%{opacity:0}}
+  .ambient{animation:breathe 7s ease-in-out infinite}
+  .left{animation:driftL 7s ease-in-out infinite}
+  .right{animation:driftR 8s ease-in-out infinite}
+  .shine{animation:run 3.5s ease-in-out infinite}
+  .caret{animation:cursor 1.2s steps(1,end) infinite}
+  @media(prefers-reduced-motion:reduce){.ambient,.left,.right,.shine,.caret{animation:none}}
 </style>
-<rect width="1200" height="270" fill="#0d1117"/>
-<ellipse class="ambient" cx="600" cy="122" rx="490" ry="215" fill="url(#ambient)"/>
-<text x="600" y="89" text-anchor="middle" font-size="86" font-weight="750" letter-spacing="-4.2" fill="#fafafa">Amlan Bhowmik</text>
-<text x="600" y="135" text-anchor="middle" fill="#c2c5cd" font-size="25" font-weight="500">Frontend Developer · UI/UX Designer</text>
-<text x="600" y="183" text-anchor="middle" fill="#f1f2f4" font-size="24" font-weight="560">Design with purpose. <tspan fill="#fb923c" font-weight="700">Build with care.</tspan><tspan class="cursor" fill="#fb923c"> |</tspan></text>
-<rect x="523" y="201" width="154" height="2" rx="1" fill="#493226"/>
-<rect class="line" x="540" y="201" width="120" height="2" rx="1" fill="url(#line)"/>
-<text x="600" y="239" text-anchor="middle" fill="#989da7" font-size="14" letter-spacing="1.7">THOUGHTFUL INTERFACES. PRACTICAL ENGINEERING.</text>
+<rect width="1200" height="320" fill="#0d1117"/>
+<rect width="1200" height="320" fill="url(#grid)"/>
+<ellipse class="ambient" cx="600" cy="160" rx="520" ry="230" fill="url(#warm)"/>
+<!-- Clearly visible static curves; motion is an enhancement, not required to understand the artwork -->
+<g class="left" fill="none">
+  <path d="M0 209 C120 204 155 90 339 121" stroke="#b45324" stroke-opacity=".75" stroke-width="2.6"/>
+  <path d="M0 239 C125 229 163 151 340 166" stroke="#80503a" stroke-opacity=".58" stroke-width="1.8"/>
+  <path d="M28 271 C124 255 187 216 331 219" stroke="#a45530" stroke-opacity=".35" stroke-width="1.5"/>
+  <g transform="translate(90 151)" stroke="#e9793d" stroke-opacity=".55">
+    <rect width="118" height="73" rx="9" fill="#171b22" stroke-width="1.5"/>
+    <path d="M0 19H118" stroke-opacity=".35"/>
+    <path d="M15 39H65 M15 51H45 M15 61H79" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="12" cy="10" r="2.5" fill="#fb923c" stroke="none"/>
+    <circle cx="22" cy="10" r="2.5" fill="#6b7280" stroke="none"/>
+  </g>
+</g>
+<g class="right" fill="none">
+  <path d="M1200 209 C1080 204 1045 90 861 121" stroke="#b45324" stroke-opacity=".75" stroke-width="2.6"/>
+  <path d="M1200 239 C1075 229 1037 151 860 166" stroke="#80503a" stroke-opacity=".58" stroke-width="1.8"/>
+  <path d="M1172 271 C1076 255 1013 216 869 219" stroke="#a45530" stroke-opacity=".35" stroke-width="1.5"/>
+  <g transform="translate(990 142)" stroke="#e9793d" stroke-opacity=".55">
+    <rect width="118" height="81" rx="9" fill="#171b22" stroke-width="1.5"/>
+    <path d="M0 19H118" stroke-opacity=".35"/>
+    <rect x="13" y="32" width="28" height="36" rx="4" fill="#9a4b29" fill-opacity=".55" stroke="none"/>
+    <rect x="49" y="45" width="24" height="23" rx="4" fill="#cc6530" fill-opacity=".65" stroke="none"/>
+    <rect x="81" y="36" width="23" height="32" rx="4" fill="#fb923c" fill-opacity=".55" stroke="none"/>
+  </g>
+</g>
+<!-- Central type remains the focus -->
+<text x="600" y="104" text-anchor="middle" font-size="82" font-weight="760" letter-spacing="-4.3" fill="#fafafa">Amlan Bhowmik</text>
+<text x="600" y="150" text-anchor="middle" fill="#e1e2e6" font-size="26" font-weight="500">Frontend Developer  ·  UI/UX Designer</text>
+<text x="600" y="206" text-anchor="middle" font-size="24" font-weight="560" fill="#f6f6f6">Design with purpose. <tspan fill="#fb923c" font-weight="720">Build with care.</tspan><tspan class="caret" fill="#fb923c"> |</tspan></text>
+<rect x="518" y="256" width="164" height="3" rx="1.5" fill="#6c3e28"/>
+<g clip-path="url(#track)"><rect class="shine" x="518" y="256" width="45" height="3" rx="1.5" fill="url(#trace)"/></g>
+<text x="600" y="292" text-anchor="middle" fill="#a5a5af" font-size="14" letter-spacing="2">THOUGHTFUL INTERFACES  /  PRACTICAL ENGINEERING</text>
 </svg>

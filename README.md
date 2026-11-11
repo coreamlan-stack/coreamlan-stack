@@ -17,22 +17,16 @@ reusable React components, design systems, and clear user experiences.
 
 <img src="./assets/heading-experience.svg" alt="02 / Experience" width="74%" />
 
-**Enterprise & administrative interfaces**<br>
-<sub>HRMS, employee management, dashboards, and role-aware UI.</sub>
+<p align="center"><strong>Enterprise & administrative interfaces</strong><br/>
+HRMS, employee management, dashboards, and role-aware UI.</p>
 
-<br />
+<p align="center"><strong>Forms & workflow design</strong><br/>
+Multi-step forms, leave management, dependent fields, and validation.</p>
 
-**Forms & workflow design**<br>
-<sub>Multi-step forms, leave management, dependent location fields, and validation.</sub>
+<p align="center"><strong>Frontend engineering & UI/UX</strong><br/>
+React components, API integration, responsive layouts, and UI refinement.</p>
 
-<br />
-
-**Frontend engineering & UI/UX**<br>
-<sub>React components, REST API integration, responsive layout, and interface refinement.</sub>
-
-<br />
-
-<sub>Professional work is primarily held in private repositories; no employer source code is shared here.</sub>
+<sub>Professional work is held in private repositories; employer source code is not shared here.</sub>
 
 <img src="./assets/heading-toolkit.svg" alt="03 / Toolkit" width="74%" />
 

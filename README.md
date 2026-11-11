@@ -16,19 +16,16 @@ I turn requirements into responsive interfaces, reusable components, intuitive f
 
 ### Experience & focus
 
-**Enterprise and administrative applications**  
-<sub>Frontend work on employee management, HRMS workflows, data-rich dashboards, and role-aware interfaces.</sub>
+**Enterprise interfaces**  
+<sub>HRMS and administrative dashboards, employee management, and role-aware user experiences.</sub>
 
-**Workflow and form design**  
-<sub>Experience refining leave processes, multi-step forms, location-dependent inputs, validation feedback, and employee records.</sub>
+**Forms & application workflows**  
+<sub>Multi-step forms, leave management, location-dependent inputs, and clear validation feedback.</sub>
 
-**Component engineering & API integration**  
-<sub>Building reusable React components, improving frontend maintainability, and integrating existing backend APIs.</sub>
+**Frontend engineering & UI/UX**  
+<sub>Reusable React components, backend API integration, responsive layouts, and design consistency.</sub>
 
-**UI/UX refinement**  
-<sub>Responsive layouts, visual consistency, accessible interaction patterns, typography, and iterative product polish.</sub>
-
-<sub>Professional work may be stored in private repositories; descriptions here do not expose employer source code.</sub>
+<sub>Some professional work is private; no employer source code is shared here.</sub>
 
 ### Toolkit
 

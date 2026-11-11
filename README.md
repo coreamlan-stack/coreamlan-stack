@@ -6,34 +6,43 @@
 <a href="https://gitlab.com/coreamlan"><img src="https://img.shields.io/badge/Visit_GitLab-21262d?style=flat-square&logo=gitlab&logoColor=FC6D26" alt="GitLab" /></a>&nbsp;
 <a href="mailto:coreamlan@gmail.com"><img src="https://img.shields.io/badge/Get_in_touch-FC6D26?style=flat-square&logo=gmail&logoColor=white" alt="Contact" /></a>
 
-<sub>AGARTALA, INDIA &nbsp; · &nbsp; FRONTEND ENGINEERING &nbsp; · &nbsp; INTERFACE DESIGN</sub>
+<br />
 
-### About me
+<img src="./assets/heading-about.svg" alt="01 / About" width="74%" />
 
-I'm **Amlan Bhowmik**, a frontend developer and UI/UX designer focused on making complex workflows feel simple.
+**I build interfaces that make complicated workflows feel simple.**
 
-I turn requirements into responsive interfaces, reusable components, intuitive forms, and cohesive application experiences — with a particular interest in design systems and the details that make software enjoyable to use.
+Frontend developer and UI/UX designer focused on responsive applications,<br>
+reusable React components, design systems, and clear user experiences.
 
-### Experience & focus
+<img src="./assets/heading-experience.svg" alt="02 / Experience" width="74%" />
 
-**Enterprise interfaces**  
-<sub>HRMS and administrative dashboards, employee management, and role-aware user experiences.</sub>
+**Enterprise & administrative interfaces**<br>
+<sub>HRMS, employee management, dashboards, and role-aware UI.</sub>
 
-**Forms & application workflows**  
-<sub>Multi-step forms, leave management, location-dependent inputs, and clear validation feedback.</sub>
+<br />
 
-**Frontend engineering & UI/UX**  
-<sub>Reusable React components, backend API integration, responsive layouts, and design consistency.</sub>
+**Forms & workflow design**<br>
+<sub>Multi-step forms, leave management, dependent location fields, and validation.</sub>
 
-<sub>Some professional work is private; no employer source code is shared here.</sub>
+<br />
 
-### Toolkit
+**Frontend engineering & UI/UX**<br>
+<sub>React components, REST API integration, responsive layout, and interface refinement.</sub>
 
-<sub>Tools I use, have worked with, or am exploring.</sub>
+<br />
+
+<sub>Professional work is primarily held in private repositories; no employer source code is shared here.</sub>
+
+<img src="./assets/heading-toolkit.svg" alt="03 / Toolkit" width="74%" />
+
+<sub>TOOLS I USE, HAVE WORKED WITH, OR AM EXPLORING</sub>
+
+<br />
 
 **Frontend & design**
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite,figma&theme=dark&perline=8" alt="React, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, Vite, Figma" />
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite,figma&theme=dark&perline=8" alt="React, TypeScript, JavaScript, HTML, CSS, Tailwind, Vite, Figma" />
 
 **Backend & data**
 
@@ -47,29 +56,33 @@ I turn requirements into responsive interfaces, reusable components, intuitive f
 
 <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman&theme=dark&perline=5" alt="Git, GitHub, GitLab, VS Code, Postman" />
 
-<sub>Icons represent a mix of professional use, familiarity, and ongoing exploration — not equal proficiency in every technology.</sub>
+<br />
 
-### How I work
+<sub>These represent a mix of professional experience, familiarity, and ongoing learning.</sub>
 
-**Understand** &nbsp;→&nbsp; **Design** &nbsp;→&nbsp; **Build** &nbsp;→&nbsp; **Refine**
+<img src="./assets/heading-process.svg" alt="04 / Process" width="74%" />
 
-<sub>Clarify requirements. Build maintainable interfaces. Test real interactions. Improve the details.</sub>
+**Understand** &nbsp; → &nbsp; **Design** &nbsp; → &nbsp; **Build** &nbsp; → &nbsp; **Refine**
 
-### Development activity
+Clarify requirements, build maintainable interfaces,<br>
+test real interactions, and polish the details.
+
+<img src="./assets/heading-connect.svg" alt="05 / Activity and Connect" width="74%" />
 
 **Building across GitHub and GitLab.**
 
-<sub>Some professional projects are private, so public contribution activity only shows part of my work.</sub>
+Some professional projects are private, so public contributions<br>
+only show part of the work.
 
-<a href="https://github.com/coreamlan-stack?tab=overview"><img src="https://img.shields.io/badge/GitHub_activity-21262d?style=flat-square&logo=github&logoColor=white" alt="GitHub activity" /></a>&nbsp;
-<a href="https://gitlab.com/coreamlan"><img src="https://img.shields.io/badge/GitLab_activity-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab activity" /></a>
+<a href="https://github.com/coreamlan-stack?tab=overview"><img src="https://img.shields.io/badge/View_GitHub_activity-21262d?style=flat-square&logo=github&logoColor=white" alt="GitHub activity" /></a>&nbsp;
+<a href="https://gitlab.com/coreamlan"><img src="https://img.shields.io/badge/View_GitLab_activity-21262d?style=flat-square&logo=gitlab&logoColor=FC6D26" alt="GitLab activity" /></a>
 
-### Connect
-
-Interested in thoughtful products, practical engineering, and collaborating on better digital experiences.
+<br /><br />
 
 **[GitHub](https://github.com/coreamlan-stack)** &nbsp;·&nbsp; **[GitLab](https://gitlab.com/coreamlan)** &nbsp;·&nbsp; **[Email](mailto:coreamlan@gmail.com)**
 
-<sub>DESIGN WITH PURPOSE. &nbsp; <b>BUILD WITH CARE.</b></sub>
+<br />
+
+<sub>DESIGN WITH PURPOSE. &nbsp; BUILD WITH CARE.</sub>
 
 </div>

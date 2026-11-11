@@ -1,60 +1,87 @@
 <div align="center">
-  <img src="./assets/hero.svg" alt="Amlan Bhowmik — Frontend Developer & UI/UX Designer" width="100%" />
-  <br />
-  <br />
-  <a href="https://github.com/coreamlan-stack?tab=repositories"><img src="https://img.shields.io/badge/Explore_my_work-172A42?style=for-the-badge&logo=github&logoColor=E8F4FF" alt="Explore my work" /></a>
-  <a href="mailto:coreamlan@gmail.com"><img src="https://img.shields.io/badge/Let's_connect-116A88?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Contact me" /></a>
+
+<img src="./assets/hero.svg" alt="Amlan Bhowmik — Software Developer and UI/UX Designer" width="100%" />
+
+<br />
+
+<sub><b>BUILDING THOUGHTFUL DIGITAL EXPERIENCES</b></sub>
+
+<br /><br />
+
+<a href="https://github.com/coreamlan-stack?tab=repositories"><img src="https://img.shields.io/badge/Explore%20work-18181b?style=flat-square&logo=github&logoColor=ffffff&labelColor=18181b" alt="Explore my work" /></a>
+&nbsp;
+<a href="mailto:coreamlan@gmail.com"><img src="https://img.shields.io/badge/Get%20in%20touch-18181b?style=flat-square&logo=gmail&logoColor=60a5fa&labelColor=18181b" alt="Get in touch" /></a>
+
 </div>
 
 <br />
 
-### A little about me
+### <sub>01 / ABOUT</sub>
 
-I'm a **frontend developer and UI/UX designer** based in Agartala, India. I care about the details that make products feel effortless — clear interfaces, clean code, responsive layouts, and the little interactions in between.
+I’m **Amlan Bhowmik**, a software developer and UI/UX designer based in Agartala, India. I build interfaces that make complex products feel simple — from carefully structured dashboards to practical workflow-driven applications.
 
-- **What I build:** Practical web applications and carefully crafted interfaces.
-- **What I care about:** Usability, consistency, accessibility, and performance.
-- **What I'm exploring:** Full-stack architecture, Spring Boot, and system design.
+I work primarily on **frontend engineering and interface design**, and I also explore backend architecture, mobile development, and developer tooling.
 
-### What I'm working on
+> **My approach:** Design with purpose. Build with care.
 
-**Government & enterprise workflows** — Building and refining frontend experiences for complex, real-world applications, including employee-management and administrative workflows.
+<br />
 
-**Better interfaces, every iteration** — Turning dense forms, dashboards, and approval processes into clearer and more intuitive experiences.
+### <sub>02 / TOOLKIT</sub>
 
-<sub>Some of my professional work lives in private repositories, so public GitHub activity doesn't show the full picture.</sub>
+A selection of technologies I work with and explore, organized by discipline rather than a wall of badges.
 
-### My toolkit
+| Focus | Technologies |
+| :-- | :-- |
+| **Frontend & UI** | React · JavaScript · TypeScript · HTML · CSS · Tailwind CSS · Vite · Figma |
+| **Backend** | Java · Spring Boot · Node.js · Express · Python |
+| **Mobile** | Flutter · Dart · Android |
+| **Data & infrastructure** | PostgreSQL · MySQL · MongoDB · Redis · Docker |
+| **Workflow & platforms** | Git · GitHub · GitLab · Linux · Postman · VS Code · Vercel |
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,git,github,gitlab,vscode,postman&theme=dark&perline=9" alt="React, JavaScript, HTML, CSS, Git, GitHub, GitLab, VS Code and Postman" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,figma,java,spring,flutter,dart,docker,postgres,git&perline=12&theme=dark" alt="Technology icons: React, TypeScript, JavaScript, Tailwind, Figma, Java, Spring, Flutter, Dart, Docker, PostgreSQL and Git" width="90%" />
 </div>
 
 <br />
 
-**Frontend:** React · JavaScript · HTML · CSS · Responsive UI  
-**Workflow:** Git · GitHub · GitLab · REST API integration · UI/UX design  
-**Exploring:** Java · Spring Boot · MySQL · System design
+### <sub>03 / WHAT I BUILD</sub>
 
-### A snapshot of my GitHub
+**Interfaces for real workflows**  
+Building and refining web applications with complex forms, data-rich dashboards, role-aware experiences, and administrative workflows.
+
+**Design systems & component thinking**  
+Creating consistent UI patterns, reusable components, thoughtful typography, responsive layouts, and details that improve usability.
+
+**Beyond the browser**  
+Exploring Flutter-based mobile experiences, APIs, databases, Docker, and scalable application architecture.
+
+<sub>Some professional projects are maintained in private repositories and may not appear in public contribution statistics.</sub>
+
+<br />
+
+### <sub>04 / GITHUB ACTIVITY</sub>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=coreamlan-stack&show_icons=true&hide_border=true&bg_color=0D1625&title_color=6BCBF4&icon_color=6BCBF4&text_color=C7D5E8&ring_color=6BCBF4" alt="GitHub statistics" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coreamlan-stack&layout=compact&hide_border=true&bg_color=0D1625&title_color=6BCBF4&text_color=C7D5E8" alt="Most-used public repository languages" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=coreamlan-stack&show_icons=true&hide_border=true&bg_color=09090b&title_color=fafafa&icon_color=60a5fa&text_color=a1a1aa&ring_color=60a5fa" width="49%" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coreamlan-stack&layout=compact&hide_border=true&bg_color=09090b&title_color=fafafa&text_color=a1a1aa" width="49%" alt="Public repository language breakdown" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=coreamlan-stack&bg_color=0D1625&color=9AB9D6&line=56B7E8&point=EAF8FF&area=true&area_color=287BA8&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=coreamlan-stack&bg_color=09090b&color=a1a1aa&line=60a5fa&point=fafafa&area=true&area_color=1e3a5f&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub activity graph" />
 </div>
+
+<br />
+
+### <sub>05 / CONNECT</sub>
+
+I'm interested in thoughtful product experiences, practical engineering, and collaborating with people who care about quality.
+
+**[GitHub](https://github.com/coreamlan-stack)** &nbsp;·&nbsp; **[Email](mailto:coreamlan@gmail.com)**
 
 ---
 
 <div align="center">
-  <strong>Good design isn't just what you see. It's how everything works together.</strong>
-  <br /><br />
-  <a href="https://github.com/coreamlan-stack">GitHub</a> · <a href="mailto:coreamlan@gmail.com">Email</a>
-  <br /><br />
-  <img src="https://komarev.com/ghpvc/?username=coreamlan-stack&style=flat-square&color=1686B5&label=Profile+views" alt="Profile views" />
+<sub>AMLAN BHOWMIK &nbsp; / &nbsp; DESIGN WITH PURPOSE. BUILD WITH CARE.</sub>
 </div>

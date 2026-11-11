@@ -1,272 +1,60 @@
-<!-- Header Banner with Wave Animation -->
 <div align="center">
-  
- ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Amlan%20Bhowmik&fontSize=70&fontAlignY=35&desc=Frontend%20Developer%20%7C%20React.js%20Enthusiast&descSize=20&descAlignY=55&animation=fadeIn&fontColor=ffffff)
-
+  <img src="./assets/hero.svg" alt="Amlan Bhowmik — Frontend Developer & UI/UX Designer" width="100%" />
+  <br />
+  <br />
+  <a href="https://github.com/coreamlan-stack?tab=repositories"><img src="https://img.shields.io/badge/Explore_my_work-172A42?style=for-the-badge&logo=github&logoColor=E8F4FF" alt="Explore my work" /></a>
+  <a href="mailto:coreamlan@gmail.com"><img src="https://img.shields.io/badge/Let's_connect-116A88?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Contact me" /></a>
 </div>
 
+<br />
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+### A little about me
 
-<!-- About Me Section -->
-<h2>
+I'm a **frontend developer and UI/UX designer** based in Agartala, India. I care about the details that make products feel effortless — clear interfaces, clean code, responsive layouts, and the little interactions in between.
 
-  &nbsp;About Me
-</h2>
+- **What I build:** Practical web applications and carefully crafted interfaces.
+- **What I care about:** Usability, consistency, accessibility, and performance.
+- **What I'm exploring:** Full-stack architecture, Spring Boot, and system design.
 
-<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+### What I'm working on
 
-```yaml
-Name: Amlan Bhowmik
-Handle: "@coreamlan-stack"
-Pronouns: He/him
-Role: Frontend Developer
-Location: Agartala, Tripura, India
+**Government & enterprise workflows** — Building and refining frontend experiences for complex, real-world applications, including employee-management and administrative workflows.
 
-current_focus:
-  -  Building AMC e-Billing Workflow System
-  -  Learning Spring Boot & System Design
-  -  Exploring Full-Stack Architecture
-  -  Crafting Production-Ready Apps
-```
+**Better interfaces, every iteration** — Turning dense forms, dashboards, and approval processes into clearer and more intuitive experiences.
 
-<br clear="both">
+<sub>Some of my professional work lives in private repositories, so public GitHub activity doesn't show the full picture.</sub>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-
-
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- Tech Stack Section -->
-<h2>
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28">
-  &nbsp;Tech Stack & Tools
-</h2>
+### My toolkit
 
 <div align="center">
-
-###  Frontend
-<p>
-  <a href="https://react.dev/">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  </a>
-  <a href="https://axios-http.com/">
-    <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios" />
-  </a>
-</p>
-
-###  Backend
-<p>
-  <a href="https://spring.io/projects/spring-boot">
-    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-  </a>
-  <a href="https://www.java.com/">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  </a>
-</p>
-
-###  Database
-<p>
-  <a href="https://www.mysql.com/">
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  </a>
-</p>
-
-###  Tools & Platforms
-<p>
-  <a href="https://git-scm.com/">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  </a>
-  <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://about.gitlab.com/">
-    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
-  </a>
-  <a href="https://code.visualstudio.com/">
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  </a>
-  <a href="https://www.postman.com/">
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  </a>
-</p>
-
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,git,github,gitlab,vscode,postman&theme=dark&perline=9" alt="React, JavaScript, HTML, CSS, Git, GitHub, GitLab, VS Code and Postman" />
 </div>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br />
 
-<!-- GitHub Stats Section -->
-<h2>
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28">
-  &nbsp;GitHub Analytics
-</h2>
+**Frontend:** React · JavaScript · HTML · CSS · Responsive UI  
+**Workflow:** Git · GitHub · GitLab · REST API integration · UI/UX design  
+**Exploring:** Java · Spring Boot · MySQL · System design
+
+### A snapshot of my GitHub
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=coreamlan-stack&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&ring_color=6C63FF" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=coreamlan-stack&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=coreamlan-stack&show_icons=true&hide_border=true&bg_color=0D1625&title_color=6BCBF4&icon_color=6BCBF4&text_color=C7D5E8&ring_color=6BCBF4" alt="GitHub statistics" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coreamlan-stack&layout=compact&hide_border=true&bg_color=0D1625&title_color=6BCBF4&text_color=C7D5E8" alt="Most-used public repository languages" height="160" />
 </div>
 
-<br>
+<br />
 
 <div align="center">
-
-###  Languages & Tools I Use
-
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,html,css,java,spring,mysql,git,github,gitlab,vscode,postman&perline=6&theme=dark" alt="My Skills" />
-  </a>
-</p>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=coreamlan-stack&bg_color=0D1625&color=9AB9D6&line=56B7E8&point=EAF8FF&area=true&area_color=287BA8&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity" width="100%" />
 </div>
 
-<br>
-
-<!-- Activity Graph -->
-<div align="center">
-  
-  [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=coreamlan-stack&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area_color=6C63FF&area=true&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/coreamlan-stack)
-
-</div>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- Currently Learning Section -->
-<h2>
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="28">
-  &nbsp;Currently Learning
-</h2>
+---
 
 <div align="center">
-<table>
-<tr>
-<td align="center" width="50%">
-
-###  Spring Boot
-<p>
-  <img src="https://img.shields.io/badge/REST_APIs-6DB33F?style=flat-square&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microservices-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=spring-security&logoColor=white" />
-</p>
-
-![](https://geps.dev/progress/35)
-
-</td>
-<td align="center" width="50%">
-
-###  Full-Stack Development
-<p>
-  <img src="https://img.shields.io/badge/React_+_Spring_Boot-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Authentication-FF6F00?style=flat-square&logo=json-web-tokens&logoColor=white" />
-</p>
-
-![](https://geps.dev/progress/40)
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-###  System Design
-<p>
-  <img src="https://img.shields.io/badge/Scalability-0D1117?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Design_Patterns-0D1117?style=flat-square&logo=blueprint&logoColor=white" />
-  <img src="https://img.shields.io/badge/Architecture-0D1117?style=flat-square&logo=diagrams.net&logoColor=white" />
-</p>
-
-![](https://geps.dev/progress/25)
-
-</td>
-<td align="center" width="50%">
-
-###  API Integration
-<p>
-  <img src="https://img.shields.io/badge/RESTful_Services-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Error_Handling-E34F26?style=flat-square&logo=bugsnag&logoColor=white" />
-  <img src="https://img.shields.io/badge/Optimization-4285F4?style=flat-square&logo=lighthouse&logoColor=white" />
-</p>
-
-![](https://geps.dev/progress/45)
-
-</td>
-</tr>
-</table>
-</div>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- Goals Section -->
-<h2>
-  <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="28">
-  &nbsp;2026 Goals
-</h2>
-
-<div align="center">
-
-|  Goal   |  Progress  |
-|---------|------------|
-| Build Production-Ready Apps | ![](https://geps.dev/progress/60) |
-| Master Frontend Architecture | ![](https://geps.dev/progress/50) |
-| Create Scalable Business Apps | ![](https://geps.dev/progress/45) |
-| Consistent Contributions | ![](https://geps.dev/progress/55) |
-| Learn Spring Boot | ![](https://geps.dev/progress/35) |
-
-</div>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- Connect Section -->
-<h2>
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28">
-  &nbsp;Let's Connect
-</h2>
-
-<div align="center">
-  <a href="mailto:coreamlan@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://github.com/coreamlan-stack">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</div>
-
-<br>
-
-<!-- Snake Contribution Animation -->
-
-
-<!-- Profile Views Counter -->
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=coreamlan-stack&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
-  
-</div>
-
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
-
-<div align="center">
-  
-  ###  From [Amlan Bhowmik](https://github.com/coreamlan-stack) — Thanks for visiting! 
-  
-  <i>"Code is like humor. When you have to explain it, it's bad."</i>
-  
+  <strong>Good design isn't just what you see. It's how everything works together.</strong>
+  <br /><br />
+  <a href="https://github.com/coreamlan-stack">GitHub</a> · <a href="mailto:coreamlan@gmail.com">Email</a>
+  <br /><br />
+  <img src="https://komarev.com/ghpvc/?username=coreamlan-stack&style=flat-square&color=1686B5&label=Profile+views" alt="Profile views" />
 </div>

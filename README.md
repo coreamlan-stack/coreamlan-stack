@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg" alt="Amlan Bhowmik — Frontend Developer and UI/UX Designer" width="100%" />
+<img src="./assets/hero-restored-animated.svg" alt="Amlan Bhowmik — Frontend Developer and UI/UX Designer" width="100%" />
 
 <a href="https://github.com/coreamlan-stack?tab=repositories"><img src="https://img.shields.io/badge/Explore_projects-21262d?style=flat-square&logo=github&logoColor=white" alt="Explore projects" /></a>&nbsp;
 <a href="https://gitlab.com/coreamlan"><img src="https://img.shields.io/badge/Visit_GitLab-21262d?style=flat-square&logo=gitlab&logoColor=FC6D26" alt="GitLab" /></a>&nbsp;

@@ -2,65 +2,74 @@
 
 <img src="./assets/hero.svg" alt="Amlan Bhowmik — Frontend Developer and UI/UX Designer" width="100%" />
 
-<a href="https://github.com/coreamlan-stack?tab=repositories"><img src="https://img.shields.io/badge/Explore_projects-21262d?style=flat-square&logo=github&logoColor=white" alt="Explore GitHub projects" /></a>
-&nbsp;
-<a href="https://gitlab.com/coreamlan"><img src="https://img.shields.io/badge/Visit_GitLab-21262d?style=flat-square&logo=gitlab&logoColor=FC6D26" alt="Visit my GitLab profile" /></a>
-&nbsp;
-<a href="mailto:coreamlan@gmail.com"><img src="https://img.shields.io/badge/Get_in_touch-FC6D26?style=flat-square&logo=gmail&logoColor=white" alt="Contact me" /></a>
+<a href="https://github.com/coreamlan-stack?tab=repositories"><img src="https://img.shields.io/badge/Explore_projects-21262d?style=flat-square&logo=github&logoColor=white" alt="Explore projects" /></a>&nbsp;
+<a href="https://gitlab.com/coreamlan"><img src="https://img.shields.io/badge/Visit_GitLab-21262d?style=flat-square&logo=gitlab&logoColor=FC6D26" alt="GitLab" /></a>&nbsp;
+<a href="mailto:coreamlan@gmail.com"><img src="https://img.shields.io/badge/Get_in_touch-FC6D26?style=flat-square&logo=gmail&logoColor=white" alt="Contact" /></a>
 
-<sub>AGARTALA, INDIA &nbsp; · &nbsp; FRONTEND ENGINEERING &nbsp; · &nbsp; UI/UX DESIGN</sub>
+<sub>AGARTALA, INDIA &nbsp; · &nbsp; FRONTEND ENGINEERING &nbsp; · &nbsp; INTERFACE DESIGN</sub>
 
 ### About me
 
-I'm **Amlan Bhowmik** — a frontend developer and UI/UX designer creating clear, intuitive interfaces for complex products.
+I'm **Amlan Bhowmik**, a frontend developer and UI/UX designer focused on making complex workflows feel simple.
 
-My focus is responsive UI, component systems, and workflow-driven applications, with growing interests in mobile, backend, and infrastructure.
+I turn requirements into responsive interfaces, reusable components, intuitive forms, and cohesive application experiences — with a particular interest in design systems and the details that make software enjoyable to use.
+
+### Experience & focus
+
+**Enterprise and administrative applications**  
+<sub>Frontend work on employee management, HRMS workflows, data-rich dashboards, and role-aware interfaces.</sub>
+
+**Workflow and form design**  
+<sub>Experience refining leave processes, multi-step forms, location-dependent inputs, validation feedback, and employee records.</sub>
+
+**Component engineering & API integration**  
+<sub>Building reusable React components, improving frontend maintainability, and integrating existing backend APIs.</sub>
+
+**UI/UX refinement**  
+<sub>Responsive layouts, visual consistency, accessible interaction patterns, typography, and iterative product polish.</sub>
+
+<sub>Professional work may be stored in private repositories; descriptions here do not expose employer source code.</sub>
 
 ### Toolkit
 
-<sub>Technologies I work with and explore.</sub>
+<sub>Tools I use, have worked with, or am exploring.</sub>
 
-**Frontend & Interface Design**
+**Frontend & design**
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite,figma&theme=dark&perline=8" alt="React, TypeScript, JavaScript, HTML, CSS, Tailwind, Vite, Figma" />
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite,figma&theme=dark&perline=8" alt="React, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, Vite, Figma" />
 
-**Backend & Data**
+**Backend & data**
 
 <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,python,mysql,postgres,mongodb,redis&theme=dark&perline=9" alt="Java, Spring Boot, Node.js, Express, Python, MySQL, PostgreSQL, MongoDB, Redis" />
 
-**Mobile & Infrastructure**
+**Mobile & infrastructure**
 
 <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,docker,linux,vercel&theme=dark&perline=6" alt="Flutter, Dart, Android Studio, Docker, Linux, Vercel" />
 
-**Developer Tools**
+**Developer workflow**
 
 <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman&theme=dark&perline=5" alt="Git, GitHub, GitLab, VS Code, Postman" />
 
-<sub>Includes technologies I'm learning; not a claim of equal proficiency across every tool.</sub>
+<sub>Icons represent a mix of professional use, familiarity, and ongoing exploration — not equal proficiency in every technology.</sub>
 
-### What I build
+### How I work
 
-<table>
-<tr>
-<td align="center" width="33%"><b>Interfaces</b><p><sub>Responsive web apps, design systems, and thoughtful interactions.</sub></p></td>
-<td align="center" width="33%"><b>Workflows</b><p><sub>Dashboards, complex forms, and administrative experiences.</sub></p></td>
-<td align="center" width="33%"><b>Exploration</b><p><sub>Flutter, APIs, databases, and Docker-based workflows.</sub></p></td>
-</tr>
-</table>
+**Understand** &nbsp;→&nbsp; **Design** &nbsp;→&nbsp; **Build** &nbsp;→&nbsp; **Refine**
+
+<sub>Clarify requirements. Build maintainable interfaces. Test real interactions. Improve the details.</sub>
 
 ### Development activity
 
-**Building in public and private repositories.**
+**Building across GitHub and GitLab.**
 
-<sub>Some professional work is hosted privately, so public GitHub metrics don't show the full picture.</sub>
+<sub>Some professional projects are private, so public contribution activity only shows part of my work.</sub>
 
-<a href="https://github.com/coreamlan-stack?tab=overview"><img src="https://img.shields.io/badge/View_GitHub_activity-21262d?style=flat-square&logo=github&logoColor=white" alt="View GitHub contribution activity" /></a>
-&nbsp;
-<a href="https://gitlab.com/coreamlan"><img src="https://img.shields.io/badge/View_GitLab_activity-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="View GitLab activity" /></a>
+<a href="https://github.com/coreamlan-stack?tab=overview"><img src="https://img.shields.io/badge/GitHub_activity-21262d?style=flat-square&logo=github&logoColor=white" alt="GitHub activity" /></a>&nbsp;
+<a href="https://gitlab.com/coreamlan"><img src="https://img.shields.io/badge/GitLab_activity-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab activity" /></a>
 
 ### Connect
 
-Interested in thoughtful products, useful software, and working with people who care about the details.
+Interested in thoughtful products, practical engineering, and collaborating on better digital experiences.
 
 **[GitHub](https://github.com/coreamlan-stack)** &nbsp;·&nbsp; **[GitLab](https://gitlab.com/coreamlan)** &nbsp;·&nbsp; **[Email](mailto:coreamlan@gmail.com)**
 
